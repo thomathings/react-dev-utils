@@ -5,10 +5,8 @@ This library is supposed to be installed in `devDependecnies` only.
 
 ## Installation
 
-> In some cases, you can add this to `devDependencies`.
-
 ```
-pnpm add @tkeiyama/react-dev-utils
+pnpm add -D @tkeiyama/react-dev-utils
 ```
 
 ## Usage
