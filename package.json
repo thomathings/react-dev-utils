@@ -1,6 +1,6 @@
 {
   "name": "@tkeiyama/react-dev-utils",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A utilities library for React for devDependencies only.",
   "repository": {
     "type": "git",
