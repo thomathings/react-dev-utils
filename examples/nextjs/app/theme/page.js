@@ -1,6 +1,6 @@
 "use client";
 
-import { useTheme } from "@tkeiyama/react-utils";
+import { useTheme } from "@tkeiyama/react-dev-utils";
 
 export default function Page() {
   const { theme, changeTheme } = useTheme();

@@ -7,7 +7,7 @@ This gives a theme to your application.
 1. First off, you need to wrap your application with the `ThemeProvider` component.
 
 ```jsx
-import { ThemeProvider } from "@tkeiyama/react-utils";
+import { ThemeProvider } from "@tkeiyama/react-dev-utils";
 
 export const Root = ({ children }) => {
   return <ThemeProvider>{children}</ThemeProvider>;
@@ -17,7 +17,7 @@ export const Root = ({ children }) => {
 2. Then, you can use the `useTheme` react hook to change a theme in your application.
 
 ```jsx
-import { useTheme } from "@tkeiyama/react-utils";
+import { useTheme } from "@tkeiyama/react-dev-utils";
 
 export const Component = () => {
   const { theme, changeTheme } = useTheme();

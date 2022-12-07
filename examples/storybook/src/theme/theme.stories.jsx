@@ -1,4 +1,4 @@
-import { ThemeProvider, useTheme } from "@tkeiyama/react-utils";
+import { ThemeProvider, useTheme } from "@tkeiyama/react-dev-utils";
 
 export default {
   title: "theme",
