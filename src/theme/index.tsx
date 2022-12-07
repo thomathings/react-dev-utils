@@ -60,8 +60,6 @@ export const ThemeProvider: FC<ThemeProviderProps> = ({ children, defaultTheme }
     if (typeof window !== "undefined") {
       const html = document.querySelector("html");
 
-      const localStorageTheme = localStorage.getItem("app-theme") as ThemeTypes;
-
       if (html) {
         const className = html.className.trim();
         if (
