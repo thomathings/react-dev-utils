@@ -1,13 +1,13 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@tkeiyama/react-utils': link:../..
+  '@tkeiyama/react-dev-utils': link:../..
   next: ^13.0.5
   react: ^18.2.0
   react-dom: ^18.2.0
 
 dependencies:
-  '@tkeiyama/react-utils': link:../..
+  '@tkeiyama/react-dev-utils': link:../..
   next: 13.0.5_biqbaboplfbrettd7655fr4n2y
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0

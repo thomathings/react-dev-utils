@@ -2,10 +2,10 @@ lockfileVersion: 5.4
 
 specifiers:
   '@storybook/react': ^6.5.13
-  '@tkeiyama/react-utils': link:../..
+  '@tkeiyama/react-dev-utils': link:../..
 
 dependencies:
-  '@tkeiyama/react-utils': link:../..
+  '@tkeiyama/react-dev-utils': link:../..
 
 devDependencies:
   '@storybook/react': 6.5.13_3rki7qa32pb6vtxta3ajy52kte
