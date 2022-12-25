@@ -1,3 +1,6 @@
+> # `@tkeiyama/react-dev-utils` is no longer maintained.  
+> # You should use [@tkeiyama/react-utils](https://github.com/tkeiyama/react-utils) instead.
+
 # React utils
 
 This provides utils for React to develop easily.
